@@ -1,0 +1,10 @@
+com/example/myapplication/OneFragment.java
+ com.example.myapplication.OneFragment
+com/example/myapplication/BuildConfig.java
+ com.example.myapplication.BuildConfig
+com/example/myapplication/TwoFragment.java
+ com.example.myapplication.TwoFragment
+com/example/myapplication/MainActivity.java
+ com.example.myapplication.MainActivity
+ com.example.myapplication.MainActivity$1
+ com.example.myapplication.MainActivity$2

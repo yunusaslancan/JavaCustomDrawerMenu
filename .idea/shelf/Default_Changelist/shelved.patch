@@ -1,0 +1,27 @@
+Index: app/src/main/res/layout/fragment_one.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/res/layout/fragment_one.xml	(date 1605475968966)
++++ app/src/main/res/layout/fragment_one.xml	(date 1605475968966)
+@@ -0,0 +1,18 @@
++<?xml version="1.0" encoding="utf-8"?>
++<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
++    xmlns:tools="http://schemas.android.com/tools"
++    android:layout_width="match_parent"
++    android:layout_height="match_parent"
++    tools:context=".OneFragment">
++
++    <!-- TODO: Update blank fragment layout -->
++
++    <TextView
++        android:layout_width="match_parent"
++        android:layout_height="match_parent"
++        android:text="Message"
++        android:textSize="50sp"
++        android:textColor="@color/purple_700"
++        android:gravity="center"/>
++
++</FrameLayout>
+\ No newline at end of file

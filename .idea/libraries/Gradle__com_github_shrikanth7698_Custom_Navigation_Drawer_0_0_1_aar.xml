@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.shrikanth7698:Custom-Navigation-Drawer:0.0.1@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c869ebbe9c84a4c5ae604d379ad34c59/jetified-Custom-Navigation-Drawer-0.0.1/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c869ebbe9c84a4c5ae604d379ad34c59/jetified-Custom-Navigation-Drawer-0.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c869ebbe9c84a4c5ae604d379ad34c59/jetified-Custom-Navigation-Drawer-0.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c869ebbe9c84a4c5ae604d379ad34c59/jetified-Custom-Navigation-Drawer-0.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.shrikanth7698/Custom-Navigation-Drawer/0.0.1/b01f99cc20c63b12a7d01f53d7ccfeb7273a15d0/Custom-Navigation-Drawer-0.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
